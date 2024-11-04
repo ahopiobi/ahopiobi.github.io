@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ahopiobi.github.io/TXY/sitemap_index.txt
+Sitemap: https://ahopiobi.github.io/ZaE/sitemap_index.txt
+Sitemap: https://ahopiobi.github.io/kDU/sitemap_index.txt
+Sitemap: https://ahopiobi.github.io/vTr/sitemap_index.txt
